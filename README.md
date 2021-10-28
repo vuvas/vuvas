@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/yonast"><img src="https://api.daily.dev/devcards/c050cfaf1c53430b97a2e220523b92c2.png?r=2in" width="400" alt="Yonas Tesfaye's Dev Card"/></a>
+<a href="https://app.daily.dev/yonast"><img src="https://github.com/vuvas/vuvas/blob/main/devcard.svg" width="400" alt="Yonas Tesfaye's Dev Card"/></a>
