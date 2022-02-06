@@ -6,7 +6,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [yonast.et](yonast.et) -->
 
-- 💬 Ask me about **System Design, SQL, C#, Web Development**
+- 💬 Ask me about **System Design, SQL, Dotnet Core, Web Development**
 
 - 📫 How to reach me **ytesfayee@gmail.com**
 
