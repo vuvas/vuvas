@@ -11,7 +11,7 @@
 - 📫 How to reach me **ytesfayee@gmail.com**
 
 
-<a align="right" href="https://app.daily.dev/yonast"><img src="https://github.com/vuvas/vuvas/blob/main/devcard.svg" width="400" alt="Yonas Tesfaye's Dev Card"/></a> 
+<!-- -<a align="right" href="https://app.daily.dev/yonast"><img src="https://github.com/vuvas/vuvas/blob/main/devcard.svg" width="400" alt="Yonas Tesfaye's Dev Card"/></a>  -->
 
 
 
