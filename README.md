@@ -2,14 +2,11 @@
 <h3 align="center">A passionate software engineer from Ethiopia.</h3>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=vuvas&label=Profile%20views&color=0e75b6&style=flat" alt="vuvas" /> </p>-->
 
-- 🌱 I’m currently learning **Blazor, React**
+- 🌱 I’m currently learning **Blazor, Laravel**
 
 <!-- - 👨‍💻 All of my projects are available at [yonast.et](yonast.et) -->
 
 - 💬 Ask me about **System Design, SQL, Dotnet Core, Web Development**
-
-- 📫 How to reach me **ytesfayee@gmail.com**
-
 
 <!-- -<a align="right" href="https://app.daily.dev/yonast"><img src="https://github.com/vuvas/vuvas/blob/main/devcard.svg" width="400" alt="Yonas Tesfaye's Dev Card"/></a>  -->
 
