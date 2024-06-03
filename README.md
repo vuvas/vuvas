@@ -6,7 +6,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [yonast.et](yonast.et) -->
 
-- 💬 Ask me about **System Design, SQL, Dotnet Core, Web Development**
+- 💬 Ask me about **System Design, SQL, Dotnet Core, Web Development, Angular, ReactJS**
 
 <!-- -<a align="right" href="https://app.daily.dev/yonast"><img src="https://github.com/vuvas/vuvas/blob/main/devcard.svg" width="400" alt="Yonas Tesfaye's Dev Card"/></a>  -->
 
