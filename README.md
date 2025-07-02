@@ -9,7 +9,7 @@ A passionate software engineer from Ethiopia.
 ### 🧐 More About Me:
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=vuvas&label=Profile%20views&color=0e75b6&style=flat" alt="vuvas" /> </p>-->
 
-- 🌱 I’m currently learning **Laravel, Go**
+- 🌱 I’m currently learning **Laravel, Vue**
 
 <!-- - 👨‍💻 All of my projects are available at [yonast.et](yonast.et) -->
 
