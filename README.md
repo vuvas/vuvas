@@ -6,14 +6,15 @@
 A passionate software engineer from Ethiopia.
 <br/>
 
-### 🧐 More About Me:
+### More About Me:
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=vuvas&label=Profile%20views&color=0e75b6&style=flat" alt="vuvas" /> </p>-->
 
-- 🌱 I’m currently learning **Laravel, Vue**
+- I’m currently working on **OpenMRS Customization**
+- I’m currently working on **Laravel, Vue**
 
 <!-- - 👨‍💻 All of my projects are available at [yonast.et](yonast.et) -->
 
-- 💬 Ask me about anything **tech related, I am happy to help;**
+- Ask me about anything **tech related, I am happy to help;**
 
 <!-- -<a align="right" href="https://app.daily.dev/yonast"><img src="https://github.com/vuvas/vuvas/blob/main/devcard.svg" width="400" alt="Yonas Tesfaye's Dev Card"/></a>  -->
 
